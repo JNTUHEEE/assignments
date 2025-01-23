@@ -14,6 +14,12 @@
 */
 
 function calculateTotalSpentByCategory(transactions) {
+
+  let SpentByCategory = {}
+
+  
+
+
   return [];
 }
 

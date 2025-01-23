@@ -9,5 +9,7 @@ There is no automated test for this one, this is more for you to understand time
 */
 
 function calculateTime(n) {
+
+    let new1 = new Date().getTime()
     return 0.01;
 }
